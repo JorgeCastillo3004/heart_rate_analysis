@@ -1,2 +1,2 @@
-# heart_rate_analysis
+# Heart Rate Signall Analysis
 Heart Rate Signal Analysis
